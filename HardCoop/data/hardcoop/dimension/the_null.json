@@ -1,0 +1,25 @@
+{
+	"type":"hardcoop:the_null",
+	"generator": {
+		"type": "flat",
+		"settings": {
+			"layers": [
+				{
+					"height":1,
+					"block":"bedrock"
+				}
+			],
+			"biome": "minecraft:the_void",
+			"lakes": false,
+			"features": false,
+			"structures": {
+				"stronghold": {
+					"distance": 1000,
+					"count": 0,
+					"spread": 500
+				},
+				"structures": {}
+			}
+		}
+	}
+}

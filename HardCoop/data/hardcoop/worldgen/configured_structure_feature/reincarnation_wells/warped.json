@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/warped",
+    "size": 1
+  },
+  "biomes": "minecraft:warped_forest",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

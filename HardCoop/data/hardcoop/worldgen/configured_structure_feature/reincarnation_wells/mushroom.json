@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/mushroom",
+    "size": 1
+  },
+  "biomes": "minecraft:mushroom_fields",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

@@ -1,0 +1,46 @@
+{
+  "structures": [
+    {
+      "structure": "hardcoop:reincarnation_wells/sand",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/mossy",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/mushroom",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/red_sand",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/snow",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/soul_sand",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/stone",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/warped",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/crimson",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 16,
+    "salt": 2168336
+  }
+}

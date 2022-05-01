@@ -1,0 +1,15 @@
+{
+  "name": "hardcoop:reincarnation_wells/stone",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hardcoop:reincarnation_wells/stone",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

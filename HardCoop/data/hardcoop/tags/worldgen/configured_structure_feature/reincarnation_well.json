@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "hardcoop:reincarnation_wells/crimson",
+	"hardcoop:reincarnation_wells/mossy",
+	"hardcoop:reincarnation_wells/mushroom",
+	"hardcoop:reincarnation_wells/red_sand",
+	"hardcoop:reincarnation_wells/sand",
+	"hardcoop:reincarnation_wells/snow",
+	"hardcoop:reincarnation_wells/soul_sand",
+	"hardcoop:reincarnation_wells/stone",
+	"hardcoop:reincarnation_wells/warped"
+  ]
+}

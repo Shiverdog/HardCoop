@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/stone",
+    "size": 1
+  },
+  "biomes": "#hardcoop:is_warm",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

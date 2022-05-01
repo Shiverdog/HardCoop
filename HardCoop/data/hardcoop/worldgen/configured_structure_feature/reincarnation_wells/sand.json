@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/sand",
+    "size": 1
+  },
+  "biomes": "minecraft:desert",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}
