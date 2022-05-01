@@ -1,6 +1,9 @@
 particle minecraft:large_smoke ~ ~1 ~ 0.8 0.8 0.8 0.1 500 normal @a
 playsound minecraft:entity.zombie_villager.cure player @a ~ ~ ~ 1 1
-execute as @e[type=item,distance=..3] run kill @s
+execute as @e[type=item,distance=..1] run kill @s
+scoreboard players set @s hardcoop_hasdied 0
+clear @s
+team join hardcoop_alive @s
 tp @s ~ ~ ~
 spawnpoint @s ~ ~ ~
 effect clear @s

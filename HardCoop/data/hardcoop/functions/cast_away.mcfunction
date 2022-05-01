@@ -1,5 +1,12 @@
-execute in hardcoop:the_null run tp @s 0 1 0
+playsound minecraft:entity.elder_guardian.curse player @s ~ ~ ~ 1 1
+execute in hardcoop:the_null run tp @s 8 4 8 
+execute in hardcoop:the_null run spawnpoint @s 8 4 8 
+execute in hardcoop:the_null positioned 8 4 8 run spreadplayers ~ ~ 100 1 false @s
 gamemode adventure @s
-scoreboard players set @s hardcoop_hasdied 0
-effect give @s
-effect give @s minecraft:resistance 1000000 100 true
+team join hardcoop_dead @s
+clear @s
+give @s minecraft:elytra{Unbreakable:1b}
+effect clear @s
+effect give @s minecraft:blindness 1 1 true
+effect give @s minecraft:slow_falling 1 1 true
+function hardcoop:dead_effects
