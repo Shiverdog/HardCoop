@@ -3,13 +3,16 @@ shiverdog (aka FatTuesday)'s Hardcore Co-Op Datapack
 
 ## Features
 ### The Null
-When a player dies, they will be forced into Adventure mode and sent into the Null. The Null is a dimension where players can't progerss through the game in any way, and the only way to leave is by being reincarnated by another player.
+When a player dies, they will be forced into Adventure mode and sent into the Null. The Null is a dimension where players can't progress through the game in any way, and the only way to leave is by being reincarnated by another player.
+| ![A section of the Null](https://raw.githubusercontent.com/Shiverdog/HardCoop/main/renders/the_null.png) | 
+|:--:| 
+| *A section of the Null* |
 
 ### New structure: Reincarnation Well
 Identified by a skeleton head on a tall pike, Reincarnation Wells provide opportunities to revive your fallen friends. Though very rare, Reincarnation Wells can be found in many biomes throughout the nether and overworld.
 | ![A mossy reincarnation well](https://raw.githubusercontent.com/Shiverdog/HardCoop/main/renders/mossy.png) | 
 |:--:| 
-| *A mossy reincarnation well Note that these normally have skeleton skulls on the pikes, but the rendering mod doesn't render block entities.* |
+| *A mossy reincarnation well. Note that these normally have skeleton skulls on the pikes, but the rendering mod doesn't render block entities.* |
 
 ### Souls
 Whenever a player dies with this datapack installed, they will drop a Soul. A Soul has the appearance of the head of the player it belongs to. Player Souls are indestructible.
