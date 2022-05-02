@@ -9,4 +9,4 @@ give @s minecraft:elytra{Unbreakable:1b}
 effect clear @s
 effect give @s minecraft:blindness 1 1 true
 effect give @s minecraft:slow_falling 1 1 true
-function hardcoop:dead_effects
+function hardcoop:internal/dead_effects

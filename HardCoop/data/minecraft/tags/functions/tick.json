@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"hardcoop:tick"
+		"hardcoop:internal/tick"
 	]
 }

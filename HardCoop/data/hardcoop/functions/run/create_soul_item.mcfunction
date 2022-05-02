@@ -1,0 +1,1 @@
+loot spawn ~ ~ ~ kill @s

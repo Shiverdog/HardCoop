@@ -1,0 +1,1 @@
+function hardcoop:internal/cast_away
