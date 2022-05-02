@@ -16,6 +16,20 @@
 				"function": "set_name",
 				"name": [{"text":"§fSoul of §e"},{"selector":"@s"}],
 				"entity": "this"
+			},
+			{
+				"function": "copy_nbt",
+				"source": {
+					"type":"storage",
+					"source": "hardcoop:soul_template"
+				},
+				"ops": [
+					{
+						"source": "template",
+						"target": "SkullOwner.Properties.textures",
+						"op": "append"
+					}
+				]
 			}
           ]
   	    }

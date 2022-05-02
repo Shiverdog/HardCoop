@@ -1,7 +1,7 @@
 playsound minecraft:entity.elder_guardian.curse player @s ~ ~ ~ 1 1
 execute in hardcoop:the_null run tp @s 8 4 8 
 execute in hardcoop:the_null run spawnpoint @s 8 4 8 
-execute in hardcoop:the_null positioned 8 4 8 run spreadplayers ~ ~ 100 1 false @s
+execute in hardcoop:the_null positioned 0 4 0 run spreadplayers ~ ~ 100 1 false @s
 gamemode adventure @s
 team join hardcoop_dead @s
 clear @s
