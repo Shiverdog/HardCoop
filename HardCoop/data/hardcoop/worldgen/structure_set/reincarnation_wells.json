@@ -29,11 +29,23 @@
       "weight": 1
     },
 	{
+      "structure": "hardcoop:reincarnation_wells/underground",
+      "weight": 1
+    },
+	{
       "structure": "hardcoop:reincarnation_wells/warped",
       "weight": 1
     },
 	{
       "structure": "hardcoop:reincarnation_wells/crimson",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/ocean",
+      "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/end",
       "weight": 1
     }
   ],

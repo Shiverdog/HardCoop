@@ -9,6 +9,9 @@
 	"hardcoop:reincarnation_wells/snow",
 	"hardcoop:reincarnation_wells/soul_sand",
 	"hardcoop:reincarnation_wells/stone",
-	"hardcoop:reincarnation_wells/warped"
+	"hardcoop:reincarnation_wells/warped",
+	"hardcoop:reincarnation_wells/ocean",
+	"hardcoop:reincarnation_wells/end",
+	"hardcoop:reincarnation_wells/underground"
   ]
 }

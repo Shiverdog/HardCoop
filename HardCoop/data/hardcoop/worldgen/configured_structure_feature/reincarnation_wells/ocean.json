@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/ocean",
+    "size": 1
+  },
+  "biomes": "#minecraft:is_ocean",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

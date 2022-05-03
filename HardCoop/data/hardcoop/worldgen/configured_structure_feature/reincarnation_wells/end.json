@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/end",
+    "size": 1
+  },
+  "biomes": [
+	"minecraft:small_end_islands",
+	"minecraft:end_barrens",
+	"minecraft:end_highlands",
+	"minecraft:end_midlands"
+  ],
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}
