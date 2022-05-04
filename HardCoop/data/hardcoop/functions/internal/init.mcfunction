@@ -20,7 +20,7 @@ team modify hardcoop_dead collisionRule never
 team modify hardcoop_dead deathMessageVisibility never
 team modify hardcoop_dead nametagVisibility hideForOtherTeams
 team modify hardcoop_dead seeFriendlyInvisibles true
+scoreboard objectives add hardcoop trigger
+data modify storage hardcoop:soul_template template set value {"Value":"hardcoop_soul_item"}
 schedule function hardcoop:internal/tick30 30t replace
 schedule function hardcoop:internal/tick100 100t replace
-data modify storage hardcoop:soul_template template set value {"Value":"hardcoop_soul_item"}
-execute store
