@@ -1,0 +1,1 @@
+execute if score well_consumed hardcoop_temp matches 0 run function hardcoop:internal/compare_uuid

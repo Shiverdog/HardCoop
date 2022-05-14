@@ -22,5 +22,6 @@ team modify hardcoop_dead nametagVisibility hideForOtherTeams
 team modify hardcoop_dead seeFriendlyInvisibles true
 scoreboard objectives add hardcoop trigger
 data modify storage hardcoop:soul_template template set value {"Value":"hardcoop_soul_item"}
+data modify storage hardcoop:pure_soul_template template set value {"Value":"hardcoop_pure_soul_item"}
 schedule function hardcoop:internal/tick30 30t replace
 schedule function hardcoop:internal/tick100 100t replace
