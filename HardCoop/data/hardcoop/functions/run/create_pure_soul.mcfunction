@@ -1,0 +1,1 @@
+loot spawn ~ ~ ~ loot hardcoop:pure_soul
