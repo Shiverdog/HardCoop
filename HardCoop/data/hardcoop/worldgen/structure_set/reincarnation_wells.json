@@ -47,6 +47,10 @@
 	{
       "structure": "hardcoop:reincarnation_wells/end",
       "weight": 1
+    },
+	{
+      "structure": "hardcoop:reincarnation_wells/outpost",
+      "weight": 1
     }
   ],
   "placement": {

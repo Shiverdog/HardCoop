@@ -10,6 +10,6 @@
 	"minecraft:end_highlands",
 	"minecraft:end_midlands"
   ],
-  "adapt_noise": false,
+  "adapt_noise": true,
   "spawn_overrides": {}
 }

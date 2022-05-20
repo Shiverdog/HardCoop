@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:pillager_outpost",
+  "config": {
+    "start_pool": "hardcoop:reincarnation_wells/outpost",
+    "size": 1
+  },
+  "biomes": "#minecraft:has_structure/pillager_outpost",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}
